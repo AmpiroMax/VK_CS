@@ -3,7 +3,7 @@
 
 def text_generator():
     """ Text generator """
-    text = "Lorem ipsum dolor sit amet, master bracnh rules"
+    text = "Lorem ipsum dolor sit amet , consectetur adipiscing elit"
     for word in text.split():
         yield word
 
@@ -19,15 +19,7 @@ def fast_forward_function():
     text = "Are there any reasons to live except to gain knowledge?"
     return text
 
-
-def function_zero():
-    """ Returning zero """
-    return 0
-
-
-def function_one():
-    """ Returning one """
-    return 1
+# removing
 
 
 def function_two():
@@ -35,9 +27,7 @@ def function_two():
     return 2
 
 
-def function_three():
-    """ Returning one """
-    return 3
+# more removes
 
 
 if __name__ == "__main__":
