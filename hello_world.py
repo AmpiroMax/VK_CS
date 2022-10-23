@@ -19,3 +19,4 @@ def fast_forward_function():
 
 if __name__ == "__main__":
     print(list(text_generator()))
+    print(list(text_generator()))
