@@ -22,6 +22,11 @@ def function_zero():
     return 0
 
 
+def function_one():
+    """ Returning one """
+    return 1
+
+
 if __name__ == "__main__":
     print(list(text_generator()))
     print(list(text_generator()))
