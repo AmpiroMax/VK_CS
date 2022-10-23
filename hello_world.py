@@ -17,6 +17,11 @@ def fast_forward_function():
     return text
 
 
+def function_zero():
+    """ Returning zero """
+    return 0
+
+
 if __name__ == "__main__":
     print(list(text_generator()))
     print(list(text_generator()))
