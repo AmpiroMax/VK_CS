@@ -3,7 +3,7 @@
 
 def text_generator():
     """ Text generator """
-    text = "Lorem ipsum dolor sit amet"
+    text = "Lorem ipsum dolor sit amet , consectetur adipiscing elit"
     for word in text.split():
         yield word
 
