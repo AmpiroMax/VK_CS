@@ -25,13 +25,12 @@ def function_two():
     return 2
 
 
-def function_three():
-    """ Returning one """
-    return 3
+# more removes
 
 
 if __name__ == "__main__":
     print(list(text_generator()))
-    print(list(text_generator()))
+    # Fixes ???
+    print(next(text_generator()))
     print(list(text_generator()))
     print(list(text_generator()))
