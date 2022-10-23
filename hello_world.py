@@ -37,6 +37,11 @@ def function_three():
     return 3
 
 
+def please_help_me():
+    """ Returning message """
+    return "please help me"
+
+
 if __name__ == "__main__":
     print(list(text_generator()))
     print(list(text_generator()))
