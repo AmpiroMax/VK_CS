@@ -27,6 +27,16 @@ def function_one():
     return 1
 
 
+def function_two():
+    """ Returning one """
+    return 2
+
+
+def function_three():
+    """ Returning one """
+    return 3
+
+
 if __name__ == "__main__":
     print(list(text_generator()))
     print(list(text_generator()))
