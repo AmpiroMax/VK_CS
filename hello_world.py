@@ -11,20 +11,13 @@ def text_generator():
 def fast_forward_function():
     """
     This function has description only because
-    pylint made me do this
+    adding
+    pylint changing me do this
     """
     text = "Are there any reasons to live except to gain knowledge?"
     return text
 
-
-def function_zero():
-    """ Returning zero """
-    return 0
-
-
-def function_one():
-    """ Returning one """
-    return 1
+# removing
 
 
 def function_two():
